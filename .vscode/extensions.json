@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "unifiedjs.vscode-mdx",
+    "ms-ceintl.vscode-language-pack-zh-hans"
+  ],
+  "unwantedRecommendations": []
+}
